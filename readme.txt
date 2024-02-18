@@ -85,3 +85,11 @@ You can post your questions on the [support forum here]()
 
 = 1.0.0 =
 * Initial Release
+
+== Developer Notes ==
+
+Public source code GitHub link for review, study, and contribute.
+
+https://github.com/alamingitpailot/click-to-copy-block
+
+For more information on how to contribute to this plugin, please visit our GitHub repository.
