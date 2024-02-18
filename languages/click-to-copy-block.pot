@@ -1,0 +1,133 @@
+# Copyright (C) 2024 Al Amin
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Click to Copy 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/click-to-copy-block\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-02-17T06:01:36+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: clipboard\n"
+
+#. Plugin Name of the plugin
+msgid "Click to Copy"
+msgstr ""
+
+#. Description of the plugin
+msgid "Description of the Click to Copy Block."
+msgstr ""
+
+#. Author of the plugin
+msgid "Al Amin"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/alamincmt"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8387
+#: dist/editor.js:8421
+msgid "Input"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8389
+msgid "Content"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8393
+msgid "Elements"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8395
+#: dist/editor.js:8412
+msgid "Label"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8397
+msgid "Icon"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8399
+msgid "Text"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8402
+msgid "Select Forms"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8403
+msgid "Select Form"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8414
+#: dist/editor.js:8422
+#: dist/editor.js:8433
+msgid "Typography"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8416
+msgid "Color"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8424
+#: dist/editor.js:8435
+msgid "Colors"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8426
+#: dist/editor.js:8439
+msgid "Padding"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8428
+#: dist/editor.js:8437
+msgid "Border"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8431
+msgid "Button"
+msgstr ""
+
+#: block.json
+msgctxt "block title"
+msgid "Click to Copy"
+msgstr ""
+
+#: block.json
+msgctxt "block description"
+msgid "Description of Click to Copy"
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "copy"
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "clipboard"
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "block"
+msgstr ""
