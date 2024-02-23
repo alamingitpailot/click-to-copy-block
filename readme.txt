@@ -9,12 +9,28 @@ Requires PHP: 7.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Short Description
+ The Click To Copy Block plugin provides a convenient Gutenberg block for copying content with a simple click. Easily integrate this block into your WordPress site to enhance user experience.
 
 == Description ==
 
+The Click To Copy Block plugin is a versatile addition to your WordPress toolkit, designed to streamline content copying on your website. With this plugin, users can easily copy text or code snippets with a single click, improving user experience and encouraging engagement.
+
+This Gutenberg block seamlessly integrates into the WordPress editor, allowing you to effortlessly add the copy functionality to your pages or posts. Whether you're sharing quotes, code snippets, or any other text-based content, the Click To Copy Block simplifies the process for your visitors.
+
+Customization options are available to tailor the appearance and behavior of the copy button to suit your website's design and functionality requirements. Additionally, advanced features such as customizable copy text, copy protection, and analytics integration provide further flexibility and insight into user interactions.
+
+The Click To Copy Block plugin is free to use and compatible with any standard WordPress theme. It is regularly updated to ensure compatibility with the latest WordPress versions and adheres to best practices for performance and security.
+
+Enhance your WordPress site today with the Click To Copy Block plugin and empower your visitors to effortlessly copy and share your content with ease.
 
 = Features =
+- Copy text, links, codes, and more with just one click - Our plugin effortlessly handles various content duplication needs.
+- Customize your display with ease by showing/hiding as many elements as you want.
+- Choose from 4 layouts – Default, Form1, Form2, Form3, Form4 – to suit your preferences.
+- Seamlessly integrate our plugin with your WordPress setup for a smooth experience, no extensive modifications required.
+- Embrace mobile compatibility with our plugin, ensuring accessibility across all devices.
+- With ease of integration at its core, our plugin seamlessly meshes with your existing codebase, making it a top choice among developers.
+- Crafted with your site's search engine ranking in mind, our plugin ensures flawless SEO performance, safeguarding your online visibility.
 
 
 = How to use =
