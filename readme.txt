@@ -35,7 +35,7 @@ Enhance your WordPress site today with the Click To Copy Block plugin and empowe
 
 = How to use =
 - Go to the Plugins Menu in WordPress
-- Search for “copy to click block”
+- Search for “click to copy”
 - Click “Install”
 - Activate the click to copy block Plugin on your Plugins Menu
 
@@ -49,17 +49,17 @@ Enhance your WordPress site today with the Click To Copy Block plugin and empowe
 
 = From Gutenberg Editor: =
 1. Go to the WordPress Block/Gutenberg Editor
-2. Search For **click to copy block**
-3. Click on the **click to copy block** to add the block
+2. Search For **click to copy**
+3. Click on the **click to copy** to add the block
 
 = Download & Upload: =
-1. Download the **click-to-copy-block** plugin (*.zip file*)
+1. Download the **click-to-copy** plugin (*.zip file*)
 2. In your admin area, go to the Plugins menu and click on **Add New**
-3. Click on **Upload Plugin** and choose the **`click-to-copy-block.zip`** file and click on **Install Now**
+3. Click on **Upload Plugin** and choose the **`click-to-copy.zip`** file and click on **Install Now**
 4. Activate the plugin and Enjoy!
 
 = Manually: =
-1. Download and upload the **click to copy block** plugin to the **`/wp-content/plugins/`** directory
+1. Download and upload the **click to copy** plugin to the **`/wp-content/plugins/`** directory
 2. Activate the plugin through the Plugins menu in WordPress
 
 
