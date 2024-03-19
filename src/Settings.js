@@ -9,7 +9,7 @@ import { PanelBody, TabPanel, ToggleControl, SelectControl, __experimentalBoxCon
 
 
 // Settings Components
-import { BColor, Typography, BorderControl, ColorsControl } from '../../Components';
+import { BColor, Typography, BorderControl, ColorsControl, HelpPanel } from '../../Components';
 
 import { tabController, checkForm } from './utils/functions';
 import options from './utils/options';
@@ -36,7 +36,7 @@ const Settings = ({ attributes, setAttributes }) => {
 			<TabPanel className='bPlTabPanel' activeClass='activeTab' tabs={generalStyleTabs} onSelect={() => tabController()}>{tab => <>
 				{'general' === tab.name && <>
 
-
+					<HelpPanel slug="click-to-copy" docsLink="https://bplugins.com/docs/click-to-copy" />
 					<PanelBody className="bPlPanelBody ctcBPanelBody" title={__('Input', 'clipboard')} initialOpen={false} >
 
 						<InputControl className='mt10' label={__('Content', 'clipboard')} labelPosition='top' value={input?.offerContent} onChange={(val) => updateObject('input', 'offerContent', val)} />

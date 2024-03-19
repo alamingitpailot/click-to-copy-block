@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Click to Copy
- * Description: Description of the Click to Copy Block.
+ * Description: The Click To Copy Block plugin offers a seamless Gutenberg block for one-click content copying.
  * Version: 1.0.0
  * Author: Al Amin
  * Author URI:https://profiles.wordpress.org/alamincmt

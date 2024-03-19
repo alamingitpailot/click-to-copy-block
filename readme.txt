@@ -1,7 +1,7 @@
 === Click To Copy ===
 Contributors: alamincmt
-Donate link: https://gum.co/wpdonate/
-Tags: block, click, copy, clipboard, Gutenberg block
+Donate link: https://www.buymeacoffee.com/abuhayat
+Tags: click to copy, copy to clipboard, one click copying, copy button, Gutenberg block
 Requires at least: 5.0+
 Tested up to:6.4.3
 Stable tag: 1.0.0
@@ -9,7 +9,7 @@ Requires PHP: 7.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
- The Click To Copy Block plugin provides a convenient Gutenberg block for copying content with a simple click. Easily integrate this block into your WordPress site to enhance user experience.
+The Click To Copy Block plugin offers a seamless Gutenberg block for one-click content copying.
 
 == Description ==
 
@@ -22,6 +22,8 @@ Customization options are available to tailor the appearance and behavior of the
 The Click To Copy Block plugin is free to use and compatible with any standard WordPress theme. It is regularly updated to ensure compatibility with the latest WordPress versions and adheres to best practices for performance and security.
 
 Enhance your WordPress site today with the Click To Copy Block plugin and empower your visitors to effortlessly copy and share your content with ease.
+
+**[Demos](https://bplugins.com/products/click-to-copy/#demos)**
 
 = Features =
 - Copy text, links, codes, and more with just one click - Our plugin effortlessly handles various content duplication needs.
@@ -89,6 +91,9 @@ You can post your questions on the [support forum here]()
 
 1. Settings
 2. Default
+3. Form-1
+4. Form-2
+5. Form-3
  
  
 == Changelog ==
@@ -101,11 +106,3 @@ You can post your questions on the [support forum here]()
 
 = 1.0.0 =
 * Initial Release
-
-== Developer Notes ==
-
-Public source code GitHub link for review, study, and contribute.
-
-https://github.com/alamingitpailot/click-to-copy-block
-
-For more information on how to contribute to this plugin, please visit our GitHub repository.

@@ -1,12 +1,9 @@
 
-
 import { createRoot } from 'react-dom/client';
-
 
 import './style.scss';
 import Style from './Style';
 import Forms from './Forms';
-
 
 // Click to Copy
 document.addEventListener('DOMContentLoaded', () => {
