@@ -3,13 +3,13 @@
 import { getBoxValue } from './utils/functions';
 
 import { getBorderCSS, getTypoCSS, getColorsCSS } from '../../Components/utils/getCSS';
-const Style = ({ attributes, clientId }) => {
+const Style = ({ attributes, id }) => {
 
 	const { labelColor, labelTypo, inputTypo, inputColors, inputPadding, inputBorder, btnTypo, btnColors, btnBorder, btnPadding } = attributes;
 
-	const parentElement = `#ctcbClickToCopy-${clientId} .form`;
-	const parentElemenDefault = `#ctcbClickToCopy-${clientId} .default`;
-	const parentElementForm3 = `#ctcbClickToCopy-${clientId} .form3`;
+	const parentElement = `#${id} .form`;
+	const parentElemenDefault = `#${id} .default`;
+	const parentElementForm3 = `#${id} .form3`;
 
 	return <style dangerouslySetInnerHTML={{
 		__html: `

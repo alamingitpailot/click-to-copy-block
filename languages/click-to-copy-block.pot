@@ -9,125 +9,108 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2024-03-19T11:40:51+00:00\n"
+"POT-Creation-Date: 2024-05-25T12:27:57+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"X-Generator: WP-CLI 2.6.0\n"
+"X-Generator: WP-CLI 2.10.0\n"
 "X-Domain: clipboard\n"
 
 #. Plugin Name of the plugin
+#: D:\Ampps\www\wordpress\wp-content\plugins\click-to-copy-block\click-to-copy-block.php
 msgid "Click to Copy"
 msgstr ""
 
 #. Description of the plugin
+#: D:\Ampps\www\wordpress\wp-content\plugins\click-to-copy-block\click-to-copy-block.php
 msgid "The Click To Copy Block plugin offers a seamless Gutenberg block for one-click content copying."
 msgstr ""
 
 #. Author of the plugin
+#: D:\Ampps\www\wordpress\wp-content\plugins\click-to-copy-block\click-to-copy-block.php
 msgid "Al Amin"
 msgstr ""
 
 #. Author URI of the plugin
+#: D:\Ampps\www\wordpress\wp-content\plugins\click-to-copy-block\click-to-copy-block.php
 msgid "https://profiles.wordpress.org/alamincmt"
 msgstr ""
 
-#: dist/editor.js:1
-#: dist/editor.js:8420
-#: dist/editor.js:8454
+#: build/index.js:1
 msgid "Input"
 msgstr ""
 
-#: dist/editor.js:1
-#: dist/editor.js:8422
+#: build/index.js:1
 msgid "Content"
 msgstr ""
 
-#: dist/editor.js:1
-#: dist/editor.js:8426
+#: build/index.js:1
 msgid "Elements"
 msgstr ""
 
-#: dist/editor.js:1
-#: dist/editor.js:8428
-#: dist/editor.js:8445
+#: build/index.js:1
 msgid "Label"
 msgstr ""
 
-#: dist/editor.js:1
-#: dist/editor.js:8430
+#: build/index.js:1
 msgid "Icon"
 msgstr ""
 
-#: dist/editor.js:1
-#: dist/editor.js:8432
+#: build/index.js:1
 msgid "Text"
 msgstr ""
 
-#: dist/editor.js:1
-#: dist/editor.js:8435
+#: build/index.js:1
 msgid "Select Forms"
 msgstr ""
 
-#: dist/editor.js:1
-#: dist/editor.js:8436
+#: build/index.js:1
 msgid "Select Form"
 msgstr ""
 
-#: dist/editor.js:1
-#: dist/editor.js:8447
-#: dist/editor.js:8455
-#: dist/editor.js:8466
+#: build/index.js:1
 msgid "Typography"
 msgstr ""
 
-#: dist/editor.js:1
-#: dist/editor.js:8449
+#: build/index.js:1
 msgid "Color"
 msgstr ""
 
-#: dist/editor.js:1
-#: dist/editor.js:8457
-#: dist/editor.js:8468
+#: build/index.js:1
 msgid "Colors"
 msgstr ""
 
-#: dist/editor.js:1
-#: dist/editor.js:8459
-#: dist/editor.js:8472
+#: build/index.js:1
 msgid "Padding"
 msgstr ""
 
-#: dist/editor.js:1
-#: dist/editor.js:8461
-#: dist/editor.js:8470
+#: build/index.js:1
 msgid "Border"
 msgstr ""
 
-#: dist/editor.js:1
-#: dist/editor.js:8464
+#: build/index.js:1
 msgid "Button"
 msgstr ""
 
-#: block.json
+#: build/block.json
 msgctxt "block title"
 msgid "Click to Copy"
 msgstr ""
 
-#: block.json
+#: build/block.json
 msgctxt "block description"
 msgid "The Click To Copy Block plugin offers a seamless Gutenberg block for one-click content copying"
 msgstr ""
 
-#: block.json
+#: build/block.json
 msgctxt "block keyword"
 msgid "click to copy"
 msgstr ""
 
-#: block.json
+#: build/block.json
 msgctxt "block keyword"
 msgid "copy to clipboard"
 msgstr ""
 
-#: block.json
+#: build/block.json
 msgctxt "block keyword"
 msgid "block"
 msgstr ""

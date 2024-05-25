@@ -2,7 +2,7 @@
 
 import { __ } from '@wordpress/i18n';
 import { useEffect } from '@wordpress/element';
-import produce from 'immer';
+import { produce } from 'immer';
 import { InspectorControls } from '@wordpress/block-editor';
 import { PanelBody, TabPanel, ToggleControl, SelectControl, __experimentalBoxControl as BoxControl, __experimentalInputControl as InputControl } from '@wordpress/components';
 

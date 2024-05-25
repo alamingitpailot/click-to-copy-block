@@ -1,5 +1,6 @@
 {
-	"apiVersion": "1",
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
 	"name": "ctcb/click-to-copy",
 	"title": "Click to Copy",
 	"description": "The Click To Copy Block plugin offers a seamless Gutenberg block for one-click content copying",
@@ -10,6 +11,7 @@
 		"block"
 	],
 	"textdomain": "clipboard",
+	"version": "1.0.0",
 	"attributes": {
 		"align": {
 			"type": "string",
@@ -145,13 +147,22 @@
 	},
 	"example": {
 		"attributes": {
-			"preview": true,
-			"columns": {
-				"desktop": 1,
-				"tablet": 1,
-				"mobile": 1
-			}
+			"preview": true
 		}
 	},
-	"editorScript": "file:dist/editor.js"
+	"editorScript": "file:./index.js",
+	"editorStyle": [
+		"file:./index.css",
+		"fontsize"
+	],
+	"style": [
+		"file:./style-index.css",
+		"fontsize"
+	],
+	"render": "file:./render.php",
+	"viewScript": [
+		"file:./view.js",
+		"react",
+		"react-dom"
+	]
 }

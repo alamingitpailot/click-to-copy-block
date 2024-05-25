@@ -1,15 +1,12 @@
 import { registerBlockType } from '@wordpress/blocks';
 
-import metadata from '../block.json';
 import Edit from './Edit';
-import './editor.scss';
+import metadata from './block.json';
+import './style.scss';
 import icons from './utils/icons';
 
-registerBlockType(metadata, {
+registerBlockType(metadata.name, {
 	icon: icons.copy,
 
-	// Build in Functions
 	edit: Edit,
-
-	save: () => null
 });
